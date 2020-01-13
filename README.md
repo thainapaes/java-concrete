@@ -1,1 +1,1 @@
-Url utilizada no Heroku: https://git.heroku.com/java-concrete-api.git
+Url utilizada no Heroku: https://java-concrete-api.herokuapp.com/
